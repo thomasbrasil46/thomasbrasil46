@@ -38,7 +38,7 @@
 
 ### You can find me at:
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ](www.linkedin.com/in/thomasbrasil46) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ](mailto:thomasbrasilpb@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ](wwww.linkedin.com/in/thomasbrasil46) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ](mailto:thomasbrasilpb@gmail.com)
 
 ---
 
