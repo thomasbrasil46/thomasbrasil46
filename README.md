@@ -36,6 +36,8 @@
 
 ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbrasil46&show_icons=true&theme=great-gatsby)
 
+![Thomas' GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=thomasbrasil46)
+
 ### You can find me at:
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ](https://www.linkedin.com/in/thomas-brasil-973615167/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ](mailto:thomasbrasilpb@gmail.com)
