@@ -6,6 +6,8 @@
 
 ##### I am Thomas and I... kinda code. Don't Know exactly what. Nice to meet you. 
 
+##### Actually learning and practcing Angular. Aiming to master fullstack skills. 
+
 ---
 
 ## Languages and Tools
