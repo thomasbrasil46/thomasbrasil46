@@ -41,8 +41,8 @@ Tenho interesse especial em **arquitetura de software, system design, qualidade 
 
 ### Repositórios públicos
 
-- **[ServiceDeskFiscal](https://github.com/thomasbrasil46/ServiceDeskFiscal)** — projeto em C# com estrutura de serviço SOAP; representa parte da minha experiência com integrações.
-- **[CrossEd_App](https://github.com/thomasbrasil46/CrossEd_App)** — projeto de aplicação para organização de atividades e rotinas no ambiente escolar.
+- **[StreamAdminApp](https://github.com/thomasbrasil46/StreamAdminApp)** — aplicação de gerenciamento de assinaturas digitais desenvolvida com C#/.NET, utilizada como laboratório de engenharia backend. O projeto explora System Design, arquitetura de microsserviços, APIs REST, persistência de dados e comunicação assíncrona, com evolução progressiva de seus componentes e infraestrutura.
+- **[RecipeBookAppAi](https://github.com/thomasbrasil46/RecipeBookAppAi)** — projeto de estudos voltado à integração de Inteligência Artificial em aplicações, utilizando um sistema de recomendações personalizadas de refeições como domínio de negócio. O objetivo é desenvolver competências em integração com modelos de IA, engenharia de APIs, arquitetura de software e construção de soluções inteligentes. Em fase de concepção e desenvolvimento.
 - **[glimpse-ed_app](https://github.com/thomasbrasil46/glimpse-ed_app)** — aplicação web com componentes de backend e frontend; um dos projetos disponíveis para conhecer meu trabalho em outras stacks.
 
 > Alguns projetos do meu portfólio foram construídos em diferentes momentos da minha evolução como desenvolvedor. Estou aprimorando a documentação e priorizando projetos backend que permitam demonstrar arquitetura, testes e boas práticas de engenharia de software.
